@@ -1,0 +1,9 @@
+warning: in the working copy of 'Chapiter2', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/Chapiter2 b/Chapiter2[m
+[1mindex 96f5e25..da4d7be 100644[m
+[1m--- a/Chapiter2[m
+[1m+++ b/Chapiter2[m
+[36m@@ -1 +1 @@[m
+[31m-It as the age of wisdom, it as the age of foolishness.[m
+\ No newline at end of file[m
+[32m+[m[32mIt was the age of wisdom, it was the age of foolishness.hello guys[m
